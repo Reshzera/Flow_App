@@ -1,16 +1,14 @@
 # Flow App
 This project is a mobile app developed with React Native. It is an app inspired on [Flow Podcast Website](https://flowpodcast.com.br/) the most famous Brazilian podcast.
 
-<div>
-  <h2>The app</h2>
+## The app
   
-  <img height="450px" src="https://github.com/Reshzera/Do_or_drink/blob/main/do_or_drink2.gif?raw=true"/>
-  <img height="450px" style="{margin-left: 30px;}" src="https://github.com/Reshzera/Do_or_drink/blob/main/do_or_drink1.gif?raw=true"/>
-</div>
+  https://user-images.githubusercontent.com/46092730/148133056-a4cbd5e0-eb1f-4b71-b015-051e6b99aa01.mp4
   
 ## Setup
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+
 
 ## Available Scripts
 
